@@ -2,7 +2,7 @@
 <suite name="Selenium Test Suite">
     <test name="Login Page Tests">
         <classes>
-            <class name="Local Login Test"/>
+            <class name="c.LocalLoginTest"/>
         </classes>
     </test>
 </suite>
